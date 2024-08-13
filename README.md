@@ -1,6 +1,6 @@
 # &#127983; Desafío - Traer posts &#128511;
 En este desafío validaremos nuestros conocimientos Trabajando con APIs y Manejo de errores.
-- Página de GitHub: [Sugerencia de Videos](https://oscmunozb.github.io/traer_posts/)
+- Página de GitHub: [Traer posts](https://oscmunozb.github.io/traer_posts/)
 
 ## &#127984; Tabla de contenidos
 - [Descripción](#-descripción)
